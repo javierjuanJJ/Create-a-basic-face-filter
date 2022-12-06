@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/AR Scene 2.unity
     guid: 7b12bce05b373954594d0d820e7b152e
+  - enabled: 0
+    path: Assets/Scenes/ice cream.unity
+    guid: 837e2ac2dfbb11b4aaf4b7d311f279ef
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2109e783ff1991343a0426a795cb757e, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 55dbeb566a6dc4749acf0dac4570fb86, type: 2}

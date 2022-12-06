@@ -480,8 +480,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Camera: {fileID: 1884093787}
   m_OriginBaseGameObject: {fileID: 1727741636}
-  m_CameraFloorOffsetObject: {fileID: 1059313707}
-  m_RequestedTrackingOriginMode: 0
+  m_CameraFloorOffsetObject: {fileID: 0}
+  m_RequestedTrackingOriginMode: 1
   m_CameraYOffset: 1.1176
 --- !u!4 &1727741638
 Transform:
@@ -667,9 +667,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_FocusMode: -1
   m_LightEstimationMode: -1
-  m_AutoFocus: 1
+  m_AutoFocus: 0
   m_LightEstimation: 0
-  m_FacingDirection: 0
+  m_FacingDirection: 2
   m_RenderMode: 0
 --- !u!81 &1884093786
 AudioListener:
@@ -688,7 +688,7 @@ Camera:
   m_GameObject: {fileID: 1884093781}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 4
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -707,7 +707,7 @@ Camera:
   field of view: 60
   orthographic: 0
   orthographic size: 5
-  m_Depth: -1
+  m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -737,7 +737,7 @@ MonoBehaviour:
   m_RenderShadows: 1
   m_RequiresDepthTextureOption: 2
   m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 1
+  m_CameraType: 0
   m_Cameras: []
   m_RendererIndex: -1
   m_VolumeLayerMask:
@@ -746,7 +746,7 @@ MonoBehaviour:
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 1
-  m_Antialiasing: 1
+  m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
   m_Dithering: 1
@@ -810,6 +810,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: AR Default Face 2
       objectReference: {fileID: 0}
+    - target: {fileID: 64838347689737709, guid: a1448e51d3fe0f24aae1da2e790a62a7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2471505299413725762, guid: a1448e51d3fe0f24aae1da2e790a62a7, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1884093787}
+    - target: {fileID: 2471505299413725762, guid: a1448e51d3fe0f24aae1da2e790a62a7, type: 3}
+      propertyPath: m_RequestedTrackingOriginMode
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a1448e51d3fe0f24aae1da2e790a62a7, type: 3}
 --- !u!1001 &64838347129482884
@@ -870,6 +882,18 @@ PrefabInstance:
     - target: {fileID: 64838347689737709, guid: c3155f4eef895434f8a210f9cd855887, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2471505299413725762, guid: c3155f4eef895434f8a210f9cd855887, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1884093787}
+    - target: {fileID: 2471505299413725762, guid: c3155f4eef895434f8a210f9cd855887, type: 3}
+      propertyPath: m_OriginBaseGameObject
+      value: 
+      objectReference: {fileID: 1727741636}
+    - target: {fileID: 2471505299413725762, guid: c3155f4eef895434f8a210f9cd855887, type: 3}
+      propertyPath: m_RequestedTrackingOriginMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3155f4eef895434f8a210f9cd855887, type: 3}
