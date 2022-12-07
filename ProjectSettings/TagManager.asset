@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cat
+  - Monocle
+  - Stars
+  - Simple
+  - Mask
   layers:
   - Default
   - TransparentFX
