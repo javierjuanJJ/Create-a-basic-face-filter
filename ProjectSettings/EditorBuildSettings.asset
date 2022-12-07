@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AR Scene 1.unity
     guid: 91a42de5720e64e4db335c0421380882
   - enabled: 0
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ice cream.unity
     guid: 837e2ac2dfbb11b4aaf4b7d311f279ef
+  - enabled: 1
+    path: Assets/Scenes/InteractiveFilter.unity
+    guid: 074109425518cbb40884f4d57107c838
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2109e783ff1991343a0426a795cb757e, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 55dbeb566a6dc4749acf0dac4570fb86, type: 2}
