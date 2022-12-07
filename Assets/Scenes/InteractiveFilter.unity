@@ -776,5 +776,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Glasses Group
       objectReference: {fileID: 0}
+    - target: {fileID: 5962823230182630368, guid: 5c0abfb598e716d429bc61dedd5e2ac8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c0abfb598e716d429bc61dedd5e2ac8, type: 3}
