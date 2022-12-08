@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 126042
+  controlID: 170534
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -54,7 +54,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   _data:
-    _json: '{"locked":false,"graphInspectorEnabled":true,"variablesInspectorEnabled":true,"isActive":true,"referenceData":{"rootObjectInstanceID":72600,"parentElementGuids":[]},"sidebars":{"left":{"size":335.0,"scroll":{"x":0.0,"y":0.0}},"right":{"size":300.0,"scroll":{"x":0.0,"y":0.0}},"panels":[{"height":200.0,"anchor":"Left","order":0,"controlHint":{"$content":"Unity.VisualScripting.GraphInspectorPanel","$type":"System.RuntimeType"},"scroll":{"x":0.0,"y":0.0}},{"height":200.0,"anchor":"Left","order":0,"controlHint":{"$content":"Unity.VisualScripting.VariablesPanel","$type":"System.RuntimeType"},"scroll":{"x":0.0,"y":0.0}}]},"reliablePosition":{"xMin":0.0,"yMin":419.0,"xMax":1043.0,"yMax":687.0},"saveChangesMessage":"Unity.VisualScripting.GraphWindow
+    _json: '{"locked":false,"graphInspectorEnabled":true,"variablesInspectorEnabled":true,"isActive":true,"referenceData":{"rootObjectInstanceID":94478,"parentElementGuids":[]},"sidebars":{"left":{"size":335.0,"scroll":{"x":0.0,"y":0.0}},"right":{"size":300.0,"scroll":{"x":0.0,"y":0.0}},"panels":[{"height":200.0,"anchor":"Left","order":0,"controlHint":{"$content":"Unity.VisualScripting.GraphInspectorPanel","$type":"System.RuntimeType"},"scroll":{"x":0.0,"y":0.0}},{"height":200.0,"anchor":"Left","order":0,"controlHint":{"$content":"Unity.VisualScripting.VariablesPanel","$type":"System.RuntimeType"},"scroll":{"x":0.0,"y":0.0}}]},"reliablePosition":{"xMin":0.0,"yMin":419.0,"xMax":1043.0,"yMax":687.0},"saveChangesMessage":"Unity.VisualScripting.GraphWindow
       has unsaved changes.","m_MinSize":{"x":100.0,"y":100.0},"m_MaxSize":{"x":4000.0,"y":4000.0},"m_TitleContent":{"m_Text":"Script
       Graph","m_Image":null,"m_Tooltip":""},"m_Pos":{"xMin":0.0,"yMin":419.0,"xMax":1043.0,"yMax":687.0},"m_ViewDataDictionary":null,"m_OverlayCanvas":{"destinationMarker":null,"m_LastAppliedPresetName":"Default","m_SaveData":[]}}'
     _objectReferences: []
@@ -82,7 +82,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 126043
+  controlID: 170535
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -107,7 +107,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 126022
+  controlID: 170872
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,9 +165,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bc1b0100
-      m_LastClickedID: 72636
-      m_ExpandedIDs: 64b1fdff1ab2fdff58b5fdff84bffdff38c0fdfff8c0fdff32d9fdffe6d9fdffa6dafdff16e3fdffcce3fdff0ae7fdffecfcfdffa0fdfdff60fefdff9201feff4602feff0803feff3809feffee09feff2e0dfeffd415feff8a16feffca19feff4229fefff829feff382dfeffb84ffeff7650feffb653feffcc5bfeff825cfeff925ffeffc0e9feff76eafeffa8edfeff1642ffffca42ffff8c43ffffb248ffff6849ffffa44cffff429efffff89effff32a2ffff8ccfffff42d0ffff7ad3ffffa2f9ffff1a740000307400007a8e00007e8e0000b88e0000bc8e0000ae970000e897000056ad000092ad00008cb00000c8b0000076c30000b2c30000d0ee00003eef000000f900006ef900000afe000078fe00001403010082030100600701009c070100200b01008e0b0100c4100100001101006a11010010170100581b0100c61b0100
+      m_SelectedIDs: 0c710100
+      m_LastClickedID: 94476
+      m_ExpandedIDs: 7ccbfcff08ccfcffaccdfcffe6cffcff72d0fcffb8d1fcffd811fdffde11fdffe411fdffea11fdfff011fdff7012fdff4a19fdff6e26fdfff431fdffaa32fdffde35fdff744dfdff284efdffde4efdff6a55fdff1e56fdffd456fdff7461fdff2862fdffde62fdff4c71fdff0072fdffb672fdff2e7afdffe47afdff187efdff64b1fdff1ab2fdff58b5fdff84bffdff38c0fdfff8c0fdff32d9fdffe6d9fdffa6dafdff16e3fdffcce3fdff0ae7fdffecfcfdffa0fdfdff60fefdff9201feff4602feff0803feff3809feffee09feff2e0dfeffd415feff8a16feffca19feff4229fefff829feff382dfeffb84ffeff7650feffb653feffcc5bfeff825cfeff925ffeffc0e9feff76eafeffa8edfeff1642ffffca42ffff8c43ffffb248ffff6849ffffa44cffff429efffff89effff32a2ffff8ccfffff42d0ffff7ad3ffffa2f9ffff1a740000307400007a8e00007e8e0000b88e0000bc8e0000ae970000e897000056ad000092ad00008cb00000c8b0000076c30000b2c30000d0ee00003eef000000f900006ef900000afe000078fe00001403010082030100600701009c070100200b01008e0b0100c4100100001101006a11010010170100581b0100c61b010026290100322c0100e632010082350100f0350100504b0100824b0100a6700100287101005c710100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -212,12 +212,12 @@ MonoBehaviour:
     height: 346
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 8}
+  m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 8}
   - {fileID: 9}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -503,9 +503,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0, y: 1, z: 0, w: 0}
+    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: 0, y: 1, z: 0, w: 0}
+    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_Size:
     m_Target: 10
     speed: 2
@@ -595,7 +595,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -695,23 +695,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_InteractiveFaceFilter/Prefabs
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/_InteractiveFaceFilter/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 96
   m_LastProjectPath: E:\Material\Laboral\Unity\Create a basic face filter\Create
     a basic face filter
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a8f0000
-    m_LastClickedID: 36650
-    m_ExpandedIDs: 00000000487700004a7700004c7700004e770000507700005277000054770000ffffff7f
+    scrollPos: {x: 0, y: 224.65482}
+    m_SelectedIDs: 3c8f0000
+    m_LastClickedID: 36668
+    m_ExpandedIDs: 00000000487700004a7700004c7700004e7700005077000052770000de3e0100fa4501003a46010066460100ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -739,7 +739,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000487700004a7700004c7700004e770000507700005277000054770000ffffff7f
+    m_ExpandedIDs: 00000000487700004a7700004c7700004e7700005077000052770000de3e0100fa4501003a460100ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -764,8 +764,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: bc1b0100
-    m_LastClickedInstanceID: 72636
+    m_SelectedInstanceIDs: 0c710100
+    m_LastClickedInstanceID: 94476
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000aa780000de7800004c390000
     m_RenameOverlay:
