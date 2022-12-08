@@ -9,6 +9,7 @@ TagManager:
   - Stars
   - Simple
   - Mask
+  - top
   layers:
   - Default
   - TransparentFX
